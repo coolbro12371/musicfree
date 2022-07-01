@@ -1,7 +1,7 @@
 # 🎵 Spotify (Static Clone)
 Spotify, is a popular music streaming service. Creating a static clone of the Spotify using HTML, CSS, JavaScript.<br>
 This is meaningful when you want to built a separate website like spotify, which have only your favorite songs and no other songs.<br>
-More content will be updated soon. This project is under active development.<br>\
+More content will be updated soon. This project is under active development.<br>
 
 # :mag_right: Check it at
 * https://beingvikasbhadu.github.io/Spotify-Clone-static/
@@ -35,6 +35,9 @@ More content will be updated soon. This project is under active development.<br>
 * Deploy it on github.
 * Now use website from any device.
 * Enjoy !!!!
+
+# :clipboard:Result
+![image](https://user-images.githubusercontent.com/98146902/176906468-33839998-0a7d-4453-9cb6-70b8b3788272.png)
 
 # :name_badge:License 
 This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Spotify-Clone-static/blob/master/LICENSE)2022 vikas bhadu
