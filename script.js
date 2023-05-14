@@ -21,39 +21,18 @@ let anchor=document.getElementById('anchor')
 
 //List of all song
 songInfo = [
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/1.mp3' },
-    { 'icon': 'images/2.jpg', 'name': 'Playdate- Justin bieber', 'duration': '05:34', 'src': 'songs/2.mp3' },
-    { 'icon': 'images/3.jpg', 'name': 'Aurora- Justin bieber', 'duration': '05:34', 'src': 'songs/3.mp3' },
-    { 'icon': 'images/4.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/4.mp3' },
-    { 'icon': 'images/5.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/5.mp3' },
-    { 'icon': 'images/6.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/6.mp3' },
-    { 'icon': 'images/7.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/7.mp3' },
-    { 'icon': 'images/8.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/8.mp3' },
-    { 'icon': 'images/9.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/9.mp3' },
-    { 'icon': 'images/10.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/10.mp3' },
-    { 'icon': 'images/11.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/11.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/1.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/2.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/3.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/4.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber justin', 'duration': '05:34', 'src': 'songs/srivalli.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/1.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Playdate- Justin bieber', 'duration': '05:34', 'src': 'songs/2.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Aurora- Justin bieber', 'duration': '05:34', 'src': 'songs/3.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/4.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/5.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/6.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/7.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/8.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/9.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/10.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/1.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/2.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/3.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/4.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber', 'duration': '05:34', 'src': 'songs/5.mp3' },
-    { 'icon': 'images/1.jpg', 'name': 'Sorry- Justin bieber justin', 'duration': '05:34', 'src': 'songs/srivalli.mp3' },
-]
+    { 'icon': 'images/1.jpg', 'name': 'NO STYLIST', 'duration': 'idk', 'src': ' { 'Destroy_Lonely_-_NO_STYLIST.mp3' },
+    { 'icon': 'images/1.jpg', 'name': '734 juice wrld', 'duration': 'idk', 'src': ' { 'Juice_WRLD_-_734_360mp3.com.ng.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'Candles Juice WRLD', 'duration': 'idk', 'src': ' { 'Juice_WRLD_-_Candles_360mp3.com.ng.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'Im Still Juice WRLD', 'duration': 'idk', 'src': ' { 'Juice_WRLD_-_Im_Still_360mp3.com.ng.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'Long Gone Juice WRLD', 'duration': 'idk', 'src': ' { 'Juice_WRLD_-_Long_Gone_360mp3.com.ng.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'Used To Juice WRLD', 'duration': 'idk', 'src': ' { 'Juice_WRLD_-_Used_To_360mp3.com.ng.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'Go Hard Juice WRLD', 'duration': 'idk', 'src': ' { 'Juice_Wrld_-_Go_Hard_360mp3.com.ng.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'If Looks Could Kill', 'duration': 'idk', 'src': ' { 'destroy_lonely_if_looks_could_kill_official_audio_mp3_72177.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'Die To Live', 'duration': 'idk', 'src': ' { 'die_to_live_mp3_72332.mp3' },
+    { 'icon': 'images/1.jpg', 'name': 'autograph(on my line) juice wrld', 'duration': 'idk', 'src': ' { 'juice_wrld_autograph_on_my_line_official_audio_mp3_72049.mp3' },
+
+ ]
 
 let temp = []
 
